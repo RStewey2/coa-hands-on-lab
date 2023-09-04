@@ -30,10 +30,10 @@ locations:
     mappingDefinitions:
       "2":
         database: PC_COALESCE_DB
-        schema: PUBLIC
+        schema: TEST
       "3":
         database: PC_COALESCE_DB
-        schema: PUBLIC
+        schema: PROD
       mappingDefinitions:
         "1":
           database: PC_COALESCE_DB
